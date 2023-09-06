@@ -1,0 +1,20 @@
+body{
+    width: 90%;
+    height: 90%;
+}
+
+.kalkulator {
+    padding: 10px;
+    height: 350px;
+    width: 400px;
+    margin: auto;
+    background-color: #cea866;
+}
+
+input {
+    border: solid rgb(168, 139, 94) 0.5px;
+    width: 90%;
+    height: 70%;
+    outline: none;
+}
+
